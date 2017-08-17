@@ -2,5 +2,5 @@
 
 * Based on jboss/base-jdk:8 image.
 * Standard RHSSO instalation, no SSL.
-* Add **Ancine realm** with clients, roles and users for testing.
+* Populate Ancine realm according /opt/jboss/ancine-realm.json file.
 
